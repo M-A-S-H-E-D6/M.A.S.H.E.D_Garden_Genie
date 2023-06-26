@@ -1,12 +1,13 @@
 import React from "react";
 import { Form } from "react-bootstrap";
+import './Time.css'
 
 const Time = ({ handleChange, values }) => {
   return (
-    <div className="d-flex flex-column align-items-center">
+    <div className="d-flex flex-column align-items-center time-border">
       <h2>Time</h2>
       <p>How much time do you have to maintain a garden?</p>
-      <Form.Group className="w-75 mt-4">
+      <Form.Group className="w-75 mt-4 green-border ">
       <Form.Check
         value="minimum"
         type="radio"
@@ -40,3 +41,8 @@ const Time = ({ handleChange, values }) => {
 };
 
 export default Time;
+
+
+
+
+

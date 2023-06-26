@@ -1,0 +1,37 @@
+/* .green-border {
+    border: 2px solid #9fd5c3;
+    padding: 10px;
+    border-radius: 5px;
+  }
+   */
+
+ 
+/* .time-border{
+   
+position: absolute;
+width: 1160px;
+height: 706px;
+left: 321px;
+top: 196px;
+
+background: #F3FFF9;
+border: 10px solid #9FD5C3;
+border-radius: 30px;} */
+
+.time-border {
+    position: absolute;
+    width: 650px;
+    height: 400px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0);
+    border: 10px solid #9FD5C3;
+    border-radius: 10px;
+  }
+  .your-button-class {
+    /* Adjust button styles as needed */
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+  }
