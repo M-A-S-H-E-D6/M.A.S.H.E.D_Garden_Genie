@@ -34,5 +34,7 @@ border-radius: 30px;} */
     position: absolute;
     bottom: 20px;
     right: 20px;
-    background-color: #008558
+    background-color: #008558;
+    color: white
+    
   }
