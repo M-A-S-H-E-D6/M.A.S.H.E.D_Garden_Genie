@@ -29,9 +29,10 @@ border-radius: 30px;} */
     border: 10px solid #9FD5C3;
     border-radius: 10px;
   }
-  .your-button-class {
-    /* Adjust button styles as needed */
+ 
+  .next-button {
     position: absolute;
     bottom: 20px;
     right: 20px;
+    background-color: #008558
   }

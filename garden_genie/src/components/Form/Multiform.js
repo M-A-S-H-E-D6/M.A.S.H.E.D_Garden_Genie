@@ -103,11 +103,11 @@ const handleSubmit = () => {
           }
           <div className="d-flex justify-content-around px-5 mt-5">
             {step > 1 ? (
-              <button className="btn btn-warning" onClick={prevStep}>
+              <button className="btn btn-warning back-button" onClick={prevStep}>
                 Back
               </button>
             ) : null}
-            <button className="btn btn-warning" onClick={nextStep}>
+            <button className="btn btn-warning next-button" onClick={nextStep}>
               {step === 5 ? "Submit" : "Next"}
             </button>
           </div>

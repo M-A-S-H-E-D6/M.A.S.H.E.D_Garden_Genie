@@ -1,9 +1,10 @@
 import React from "react";
 import { Form } from "react-bootstrap";
+import './Budget.css';
 
 const Budget = ({ handleChange, values }) => {
   return (
-    <div className="d-flex flex-column align-items-center">
+    <div className="d-flex flex-column align-items-center budget-border">
       <h2>Budget</h2>
       <p>Are you facing budget constraints that could limit your gardening??</p>
       

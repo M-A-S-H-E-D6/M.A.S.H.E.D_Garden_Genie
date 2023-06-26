@@ -1,9 +1,11 @@
 import React from "react";
 import { Form } from "react-bootstrap";
+import './Space.css';
+
 
 const Space = ({ handleChange, values }) => {
   return (
-    <div className="d-flex flex-column align-items-center">
+    <div className="d-flex flex-column align-items-center space-border">
       <h2>Space</h2>
       <p>What type of space do you have available?</p>
       

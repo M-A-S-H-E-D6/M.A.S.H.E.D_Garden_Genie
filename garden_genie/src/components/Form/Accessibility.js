@@ -1,9 +1,10 @@
 import React from "react";
 import { Form } from "react-bootstrap";
+import './Accessibility.css';
 
 const Accessibility = ({ handleChange, values }) => {
   return (
-    <div className="d-flex flex-column align-items-center">
+    <div className="d-flex flex-column align-items-center accessibility-border">
       <h2>Mobility</h2>
       <p>Do you have any mobility difficulties?</p>
       <Form.Group controlId = "accessibility" className="w-75 mt-4">

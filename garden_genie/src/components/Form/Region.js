@@ -1,9 +1,10 @@
 import React from "react";
 import { Form } from "react-bootstrap";
+import './Region.css';
 
 const Region = ({ handleChange, values }) => {
   return (
-    <div className="d-flex flex-column align-items-center">
+    <div className="d-flex flex-column align-items-center region-border">
       <h2>Region</h2>
       <p>What is your location?</p>
       <Form.Group controlId = "region" className="w-75 mt-4">
