@@ -1,6 +1,3 @@
-<div 
-LOGO HERE
-</div>
 <h1 align="center">Garden Genie by M.A.S.H.E.D - Frontend repository</h1>
 
 
@@ -56,29 +53,19 @@ Bootstrap was used for CSS components
 JEST was used for Frontend testing
 We deployed our front-end on Netlify and we built our backend with MongoDB.
 
-## Roadmap
-STRETCH GOALS
 
 ## Roadmap
-#### - Login: 
+#### - Login 
 
-#### - Community/volunteers/sharing resources: 
+#### - Community/volunteers
 
-#### - Education/Mental Health: 
+#### - Education/Mental Health
 
-#### - Marketplace/Links to various marketplaces:
+#### - Marketplace choices tailored to users' choices
 
-#### - Plant indentifier/plugin of this:
+#### - Plant indentifier
 
-#### - Reminders to water, saved plants may have notifications telling you its time to plant:
-
-
-
-
-
-
-## Lessons Learned
-1 EACH MAYBE
+#### - Reminders to water, saved plants may have notifications telling you its time to plant
 
 
 ## Repositories
