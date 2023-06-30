@@ -70,6 +70,7 @@ We deployed our front-end on Netlify and we built our backend with MongoDB.
 
 ## Repositories
 Frontend: https://github.com/M-A-S-H-E-D6/M.A.S.H.E.D_Garden_Genie
+
 Backend: https://github.com/M-A-S-H-E-D6/GardenGenieBackend
 
 ## AUTHORS
